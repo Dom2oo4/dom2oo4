@@ -1,0 +1,26 @@
+/* Paragraph 1 */
+.para1 {
+  color: darkblue;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Paragraph 2 */
+.para2 {
+  color: darkgreen;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.8;
+}
+
+/* Paragraph 3 */
+.para3 {
+  color: darkred;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+body {
+  background-color: lightyellow;
+}
